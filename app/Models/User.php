@@ -25,6 +25,7 @@ class User extends Authenticatable
 
     /**
      * The attributes that should be hidden for serialization.
+     * Các thuộc tính cần được ẩn đi trong quá trình tuần tự hóa.
      *
      * @var array<int, string>
      */
